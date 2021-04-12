@@ -7,6 +7,9 @@ String s1="Java";
 String s2="Java";
 boolean a = s1.equals(s2);
 System.out.println(a);
+String a2="Nisha";
+String a1="nisha";
+
 String s3="Java";
 String s4="java";
 boolean b = s3.equals(s4);
